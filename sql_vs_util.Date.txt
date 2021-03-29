@@ -1,0 +1,6 @@
+
+		java.util.Date				java.sql.Date	
+		
+		it's Super Class (Parent)		it's Sub Class (Child)
+		it has 6 construter			it has 2 construter
+		represents date and time of day		only represents a date. time is spreted in java.sql.Time
